@@ -1,4 +1,7 @@
 # Data Analysis & LGBM Model w/Ezgi Turalı (morethan101)
+
+**To review the file paste the link to [nbviewer.jupyter.org](https://nbviewer.jupyter.org/).**
+
 **This notebook is provided by Ezgi Turalı, all credit to her.**
 * [twitter.com/ezgiturali](www.twitter.com/ezgiturali)
 
